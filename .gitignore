@@ -1,0 +1,8 @@
+*.aux
+*.log
+*.nav
+*.out
+*.pytxcode
+*.snm
+*.synctex.gz
+*.toc
